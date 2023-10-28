@@ -15,6 +15,7 @@ Program oblicza i wyświetla wynik równania
 """
 
 
+
 def zad1():
     rownanie=(512-282) / (47 * 48 + 5)
     print(rownanie)
